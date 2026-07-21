@@ -15,3 +15,14 @@ function errorhandling() {
         document.getElementById("E").innerHTML="17 divide"+accessability+"="+(17/Number(accessability));
     }
 }
+function find() {
+    var numbers= [5, 10, 15, 20, 25, 30];
+    var appear = numbers.find((element) => element > 15);
+    console.log=(found);
+    document.getElementById("F").value;
+}
+function swap(){
+    var a = document.getElementById("G").value;
+    var b= [cat];
+    var c=[a,b] = [b,a];
+}
